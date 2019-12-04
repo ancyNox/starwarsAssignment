@@ -1,0 +1,14 @@
+
+.navContainer {
+  overflow: hidden;
+  color:red;
+}
+.navContainer .navTab {
+  cursor: pointer;
+  padding: 0px 14px;
+  font-size: 17px;
+}
+
+.navContainer .navTab:hover {
+  color: #b62b2b !important;
+}
